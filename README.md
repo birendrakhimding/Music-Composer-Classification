@@ -21,9 +21,10 @@ This project uses deep learning techniques to classify MIDI files by their compo
 
 ## Key Files
 
-- `Final_Project_511_Group5.ipynb` - Main project notebook
+- `FInal_Project_Team5.ipynb` - Main project notebook
 - `LSTM_Optimization.ipynb` - LSTM model optimization experiments
-- `final_project.ipynb` - LSTM model
+- `LSTM_Model.ipynb` - LSTM model
+- `CNN_Model.ipynb` - CNN model
 
 ## Getting Started
 
